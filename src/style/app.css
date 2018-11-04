@@ -1,0 +1,31 @@
+.form-style{
+    border-radius: 1px;
+    box-shadow: 0 2px 15px 0 rgba(61,61,61,.1);
+    background: #fff;
+    padding: 24px 16px 16px;
+    margin-bottom: 16px;
+    margin-top: 16px;
+    min-height: 382px;
+}
+label{
+    color: #6b7d85;
+    font-size: 13px;
+    margin-bottom: 8px;
+    display: block;
+    font-weight: 700;
+}
+
+.form-action{
+    background-color: #f16521;
+    border: none;
+    display: block;
+    outline: 0;
+    text-transform: uppercase;
+    width: 94px;
+    float: right;
+    padding: 8px 0;
+    font-size: 15px;
+    font-weight: 700;
+    color: #fff;
+    cursor: pointer;
+}
